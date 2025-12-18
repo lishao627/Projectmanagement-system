@@ -62,6 +62,16 @@
 
 系统采用菜单式交互，操作直观，便于上手。
 
+控制面版：
+
+<img width="1720" height="1082" alt="屏幕截图 2025-11-26 160405" src="https://github.com/user-attachments/assets/842d355d-4ec4-434f-adbd-691b85fc259e" />
+
+学生专栏：
+<img width="1777" height="1175" alt="屏幕截图 2025-11-29 160633" src="https://github.com/user-attachments/assets/29c135b8-1cff-4949-a08b-517dd4eee4d8" />
+
+编辑实验报告：
+<img width="1766" height="1262" alt="屏幕截图 2025-11-29 160743" src="https://github.com/user-attachments/assets/58f8cd72-ce55-483d-a5d3-709fd00037fa" />
+
 ---
 
 ## 六、项目意义
